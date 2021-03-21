@@ -1,7 +1,8 @@
 {
-  "name": "swag/plugin-skeleton",
-  "description": "Skeleton plugin",
+  "name": "swag/app-manufacturer",
+  "description": "Manufacturer Plugin",
   "type": "shopware-platform-plugin",
+  "version": "v1.0.0",
   "license": "MIT",
   "autoload": {
     "psr-4": {
@@ -11,8 +12,8 @@
   "extra": {
     "shopware-plugin-class": "AppManufacturer\\AppManufacturer",
     "label": {
-      "de-DE": "Skeleton plugin",
-      "en-GB": "Skeleton plugin"
+      "de-DE": "Hersteller Plugin",
+      "en-GB": "Manufacturer Plugin"
     }
   }
 }
